@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.developer.employeemanagement.service.EmployeeService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="com.developer.employeemanagement.dto.request.EmployeeRequest"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.developer.employeemanagement.dto.response.EmployeeResponse"/>
+    <fullyQualifiedTypeName name="org.mapstruct.factory.Mappers"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EnumType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Temporal"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.LearningPortal.LearningPortal.entity.CourseEntity"/>
+    <fullyQualifiedTypeName name="com.LearningPortal.LearningPortal.repository.FavoriteRepository"/>
+    <fullyQualifiedTypeName name="com.LearningPortal.LearningPortal.entity.CategoryEntity"/>
+    <fullyQualifiedTypeName name="com.LearningPortal.LearningPortal.repository.CategoryRepository"/>
+    <fullyQualifiedTypeName name="com.LearningPortal.LearningPortal.service.UserService"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

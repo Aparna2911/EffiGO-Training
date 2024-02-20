@@ -1,0 +1,5 @@
+package com.LearningPortal.LearningPortal.dto.response;
+
+public class CourseResponse {
+
+}
